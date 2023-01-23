@@ -11,7 +11,7 @@ spec:
         generators:
           # git generator, 'child' #1
           - git:
-              repoURL: https://github.com/CourageOI/argocd-example.git
+              repoURL: https://github.com/CourageOI/argcd-example.git
               revision: main
               files:
                 - path: "cluster-addons-chart/infra-addons/"
